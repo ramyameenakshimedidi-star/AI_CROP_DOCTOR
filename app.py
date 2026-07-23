@@ -22,7 +22,7 @@ st.set_page_config(
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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"
+    api_key=""
 )
 
 # -----------------------------
